@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedsaeedmohammedhasan
-- 👀 I’m interested in C++ & python 
+- 👀 I’m interested in C++, python, Physics & Math
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on embedded system & ML projects
 - 📫 you can reach me on whatsapp 00249991117411
